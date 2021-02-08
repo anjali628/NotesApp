@@ -19,7 +19,7 @@ User can also recover the password if the user forgot the password by clicking o
 ![Screenshot_20210208-185532](https://user-images.githubusercontent.com/64889275/107237552-de072100-6a4c-11eb-9ed9-6ac426f90045.png)
 
 
-Here, you can add the notes by clicking on +(plus) icon and clicking on save icon.
+Here, you can add as many notes you want by clicking on +(plus) icon and clicking on save icon.
 ![Screenshot_20210208-185658](https://user-images.githubusercontent.com/64889275/107227427-5ec02000-6a41-11eb-8232-36a7a66d6efa.png)
 ![Screenshot_20210208-185815](https://user-images.githubusercontent.com/64889275/107228434-ae531b80-6a42-11eb-99f2-67231a59f0cd.png)
 
