@@ -228,6 +228,7 @@ public class notesActivity extends AppCompatActivity {
         {
             case R.id.logout:
             firebaseAuth.signOut();
+            Toast.makeText(getApplicationContext(),"Logged Out",Toast.LENGTH_SHORT).show();
             finish();
             startActivity(new Intent(notesActivity.this,MainActivity.class));
 
