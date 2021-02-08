@@ -2,7 +2,7 @@
 An amazing Android Application with a well designed UI and it has the facility to  add, update or delete the note whichever the user want. It shows the randomly different colors on every note whenever the user login or signup for notes application.
 
 
-First Screen when the user open the Notes Application-
+First Screen when the user opens the Notes Application-
 ![Screenshot_20210208-185518](https://user-images.githubusercontent.com/64889275/107226435-266c1200-6a40-11eb-8d68-6570b0a6b429.png)
 
 
@@ -15,7 +15,7 @@ User will got the email on the registered email and then verify the email first 
 ![Screenshot_20210208-185557](https://user-images.githubusercontent.com/64889275/107227239-2a4c6400-6a41-11eb-9974-471ee5587e0c.png)
 
 
-Here, you can add the notes by clicking on + icon and clicking on save icon.
+Here, you can add the notes by clicking on +(plus) icon and clicking on save icon.
 ![Screenshot_20210208-185658](https://user-images.githubusercontent.com/64889275/107227427-5ec02000-6a41-11eb-8232-36a7a66d6efa.png)
 ![Screenshot_20210208-185815](https://user-images.githubusercontent.com/64889275/107228434-ae531b80-6a42-11eb-99f2-67231a59f0cd.png)
 
@@ -36,7 +36,7 @@ If you click on edit then you will move to other screen for editing of note. Sup
 ![Screenshot_20210208-192125](https://user-images.githubusercontent.com/64889275/107229303-a6e04200-6a43-11eb-9797-0f85aa90805d.png)
 
 
-Then I simple change by pressing on edit icon from hi to hey
+Then, I simple change by pressing on edit icon from hi to hey
 then-
 ![Screenshot_20210208-192143](https://user-images.githubusercontent.com/64889275/107229412-cecfa580-6a43-11eb-8dca-06d3bf249e84.png)
 ![Screenshot_20210208-192147](https://user-images.githubusercontent.com/64889275/107229444-d7c07700-6a43-11eb-8760-e5f86bc01bfd.png)
