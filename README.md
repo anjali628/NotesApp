@@ -15,6 +15,10 @@ User will got the email on the registered email and then verify the email first 
 ![Screenshot_20210208-185557](https://user-images.githubusercontent.com/64889275/107227239-2a4c6400-6a41-11eb-9974-471ee5587e0c.png)
 
 
+User can also recover the password if the user forgot the password by clicking on forgot password? on the login screen. After clicking, user will be directed to below screen. Here, user can enter the registered mail and easily recover the password using Email-
+![Screenshot_20210208-185532](https://user-images.githubusercontent.com/64889275/107237552-de072100-6a4c-11eb-9ed9-6ac426f90045.png)
+
+
 Here, you can add the notes by clicking on +(plus) icon and clicking on save icon.
 ![Screenshot_20210208-185658](https://user-images.githubusercontent.com/64889275/107227427-5ec02000-6a41-11eb-8232-36a7a66d6efa.png)
 ![Screenshot_20210208-185815](https://user-images.githubusercontent.com/64889275/107228434-ae531b80-6a42-11eb-99f2-67231a59f0cd.png)
