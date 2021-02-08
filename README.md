@@ -28,6 +28,7 @@ If user want to log out from the application then click on three dot menu on the
 ![Screenshot_20210208-185747](https://user-images.githubusercontent.com/64889275/107229598-09394280-6a44-11eb-90a8-84240d03cf8b.png)
 After this, you will be logged out and directed to the login screen.
 ![Screenshot_20210208-185518](https://user-images.githubusercontent.com/64889275/107229906-6503cb80-6a44-11eb-9a9a-3090f3ef70fd.png)
+![Screenshot_20210208-201046](https://user-images.githubusercontent.com/64889275/107234644-e27e0a80-6a49-11eb-8e9e-6db0c5cc278e.png)
 Then, you can again login or sign the application if you want.
 If user enter wrong credentials anywhere then you will got the appropriate toasts everywhere.
 
