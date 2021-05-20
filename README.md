@@ -20,8 +20,8 @@ User can also recover the password if the user forgot the password by clicking o
 
 
 Here, you can add as many notes you want by clicking on +(plus) icon and clicking on save icon.
-![Screenshot_20210208-185658](https://user-images.githubusercontent.com/64889275/107227427-5ec02000-6a41-11eb-8232-36a7a66d6efa.png)
-![Screenshot_20210208-185815](https://user-images.githubusercontent.com/64889275/107228434-ae531b80-6a42-11eb-99f2-67231a59f0cd.png)
+![Screenshot_20210520-180515](https://user-images.githubusercontent.com/64889275/118980967-78092e80-b997-11eb-9c12-694916a0dfdb.png)
+![Screenshot_20210520-180459](https://user-images.githubusercontent.com/64889275/118981004-82c3c380-b997-11eb-9a04-1a5d8475ac81.png)
 
 
 You will get the detail of desired note by clicking on that note simply. Here, we can also edit the note if desired.
