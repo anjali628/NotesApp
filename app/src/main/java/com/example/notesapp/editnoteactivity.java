@@ -20,6 +20,8 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -32,6 +34,10 @@ public class editnoteactivity extends AppCompatActivity {
     FirebaseAuth firebaseAuth;
     FirebaseFirestore firebaseFirestore;
     FirebaseUser firebaseUser;
+    Calendar calendar;
+    SimpleDateFormat simpleDateFormat;
+    String Date;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +52,10 @@ public class editnoteactivity extends AppCompatActivity {
 
         firebaseFirestore=FirebaseFirestore.getInstance();
         firebaseUser=FirebaseAuth.getInstance().getCurrentUser();
+        calendar=Calendar.getInstance();
+        simpleDateFormat=new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
+
+
 
 
         Toolbar toolbar=findViewById(R.id.toolbarofeditnote);
@@ -60,6 +70,8 @@ public class editnoteactivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 //Toast.makeText(getApplicationContext(),"savebutton click",Toast.LENGTH_SHORT).show();
+                Date=simpleDateFormat.format(calendar.getTime());
+
 
                 String newtitle=medittitleofnote.getText().toString();
                 String newcontent=meditcontentofnote.getText().toString();
@@ -75,6 +87,7 @@ public class editnoteactivity extends AppCompatActivity {
                         Map <String,Object> note=new HashMap<>();
                         note.put("title",newtitle);
                         note.put("content",newcontent);
+                        note.put("date",Date);
                         documentReference.set(note).addOnSuccessListener(new OnSuccessListener<Void>() {
                             @Override
                             public void onSuccess(Void aVoid) {

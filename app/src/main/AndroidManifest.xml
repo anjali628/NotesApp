@@ -9,9 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NotesApp">
-        <activity android:name=".notedetails"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" ></activity>
-        <activity android:name=".editnoteactivity"
+        <activity android:name=".MainActivity"></activity>
+        <activity
+            android:name=".notedetails"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".editnoteactivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".createnote"
@@ -19,7 +22,7 @@
         <activity android:name=".notesActivity" />
         <activity android:name=".forgotPassword" />
         <activity android:name=".signup" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

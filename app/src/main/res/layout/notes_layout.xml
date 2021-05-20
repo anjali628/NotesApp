@@ -20,7 +20,22 @@
             android:layout_height="wrap_content"
             android:id="@+id/note"
             android:orientation="vertical"
+
             >
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:padding="5dp"
+                android:textColor="#3a3a3a"
+                android:id="@+id/dateAndTime"
+                android:text="date and time display here"
+
+                >
+
+            </TextView>
 
             <LinearLayout
                 android:layout_width="match_parent"

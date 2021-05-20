@@ -21,6 +21,9 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.FirebaseFirestore;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -33,6 +36,11 @@ public class createnote extends AppCompatActivity {
     FirebaseFirestore firebaseFirestore;
 
     ProgressBar mprogressbarofcreatenote;
+    Calendar calendar;
+    SimpleDateFormat simpleDateFormat;
+    String Date;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,6 +61,10 @@ public class createnote extends AppCompatActivity {
         firebaseFirestore=FirebaseFirestore.getInstance();
         firebaseUser=FirebaseAuth.getInstance().getCurrentUser();
 
+        calendar=Calendar.getInstance();
+        simpleDateFormat=new SimpleDateFormat("dd-MM-yyyy HH:mm:ss");
+
+
 
 
         msavenote.setOnClickListener(new View.OnClickListener() {
@@ -65,6 +77,7 @@ public class createnote extends AppCompatActivity {
                 }
                 else
                 {
+                    Date=simpleDateFormat.format(calendar.getTime());
 
                     mprogressbarofcreatenote.setVisibility(View.VISIBLE);
 
@@ -72,6 +85,7 @@ public class createnote extends AppCompatActivity {
                     Map<String,Object> note=new HashMap<>();
                     note.put("title",title);
                     note.put("content",content);
+                    note.put("date",Date);
 
                     documentReference.set(note).addOnSuccessListener(new OnSuccessListener<Void>() {
                         @Override

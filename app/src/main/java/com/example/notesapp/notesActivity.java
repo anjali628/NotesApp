@@ -97,6 +97,7 @@ public class notesActivity extends AppCompatActivity {
 
                 noteViewHolder.notetitle.setText(firebasemodel.getTitle());
                 noteViewHolder.notecontent.setText(firebasemodel.getContent());
+                noteViewHolder.noteDateAndTime.setText(firebasemodel.getDate());
 
 
                 String docId=noteAdapter.getSnapshots().getSnapshot(i).getId();
@@ -197,11 +198,13 @@ public class notesActivity extends AppCompatActivity {
         private TextView notetitle;
         private TextView notecontent;
         LinearLayout mnote;
+        private TextView noteDateAndTime;
 
         public NoteViewHolder(@NonNull View itemView) {
             super(itemView);
             notetitle=itemView.findViewById(R.id.notetitle);
             notecontent=itemView.findViewById(R.id.notecontent);
+            noteDateAndTime=itemView.findViewById(R.id.dateAndTime);
             mnote=itemView.findViewById(R.id.note);
 
 
