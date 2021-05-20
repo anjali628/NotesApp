@@ -25,7 +25,7 @@ Here, you can add as many notes you want by clicking on +(plus) icon and clickin
 
 
 You will get the detail of desired note by clicking on that note simply. Here, we can also edit the note if desired.
-![Screenshot_20210208-191246](https://user-images.githubusercontent.com/64889275/107227714-c1192080-6a41-11eb-88ee-9a4a0d35881c.png)
+![Screenshot_20210520-180530](https://user-images.githubusercontent.com/64889275/118980051-b81be180-b996-11eb-804d-ae77bd570094.png)
 
 
 When the user click on menu icon which is shown by three dots at the right side of every note then you get the two functions(edit and delete)-
