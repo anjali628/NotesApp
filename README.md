@@ -28,11 +28,11 @@ You will get the detail of desired note by clicking on that note simply. Here, w
 
 
 When the user click on menu icon which is shown by three dots at the right side of every note then you get the two functions(edit and delete)-
-![Screenshot_20210208-185705](https://user-images.githubusercontent.com/64889275/107228011-210fc700-6a42-11eb-9064-dbfdba7586df.png)
+![Screenshot_20210520-180343](https://user-images.githubusercontent.com/64889275/118988995-4d22d880-b99f-11eb-9df5-c264d8087e9a.png)
 
 
 When you click on delete then the particular note is deleted. Like-
-![Screenshot_20210208-185740](https://user-images.githubusercontent.com/64889275/107228115-4ac8ee00-6a42-11eb-9d4a-00dc589dba67.png)
+![Screenshot_20210520-180406](https://user-images.githubusercontent.com/64889275/118989080-5f047b80-b99f-11eb-86ed-bb0584128035.png)
 
 
 If you click on edit then you will move to other screen for editing of note. Suppose if I want to edit any desired note as follows-
