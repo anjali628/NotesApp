@@ -40,7 +40,7 @@ If you click on edit then you will move to other screen for editing of note. Sup
 ![Screenshot_20210520-192315](https://user-images.githubusercontent.com/64889275/118990992-fae2b700-b9a0-11eb-8436-9bf44232bb56.png)
 
 
-Then, I simple change the note title and content as desired by clicking on edit icon-
+Then, I simple change the note title and content as desired by clicking on edit icon.After editing, the date and time of the editing will be shown on the note-
 ![Screenshot_20210520-180515](https://user-images.githubusercontent.com/64889275/118982107-b81ce100-b998-11eb-9612-e3f4ab7ce634.png)
 ![Screenshot_20210520-180459](https://user-images.githubusercontent.com/64889275/118982136-c10db280-b998-11eb-9cf4-8f4279993105.png)
 
