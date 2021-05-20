@@ -39,10 +39,9 @@ If you click on edit then you will move to other screen for editing of note. Sup
 ![Screenshot_20210208-192125](https://user-images.githubusercontent.com/64889275/107229303-a6e04200-6a43-11eb-9797-0f85aa90805d.png)
 
 
-Then, I simple change by pressing on edit icon from hi to hey
-then-
-![Screenshot_20210208-192143](https://user-images.githubusercontent.com/64889275/107229412-cecfa580-6a43-11eb-8dca-06d3bf249e84.png)
-![Screenshot_20210208-192147](https://user-images.githubusercontent.com/64889275/107229444-d7c07700-6a43-11eb-8760-e5f86bc01bfd.png)
+Then, I simple change the note title and content as desired by clicking on edit icon-
+![Screenshot_20210520-180515](https://user-images.githubusercontent.com/64889275/118982107-b81ce100-b998-11eb-9612-e3f4ab7ce634.png)
+![Screenshot_20210520-180459](https://user-images.githubusercontent.com/64889275/118982136-c10db280-b998-11eb-9cf4-8f4279993105.png)
 
 
 If user wants to log out from the application then click on three dot menu on the right corner of Action Bar of the notes application-
