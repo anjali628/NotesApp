@@ -35,8 +35,9 @@ When you click on delete then the particular note is deleted. Like-
 ![Screenshot_20210208-185740](https://user-images.githubusercontent.com/64889275/107228115-4ac8ee00-6a42-11eb-9d4a-00dc589dba67.png)
 
 
-If you click on edit then you will move to other screen for editing of note. Suppose if I want to edit the note with title-hi and content-hello
-![Screenshot_20210208-192125](https://user-images.githubusercontent.com/64889275/107229303-a6e04200-6a43-11eb-9797-0f85aa90805d.png)
+If you click on edit then you will move to other screen for editing of note. Suppose if I want to edit any desired note as follows-
+![Screenshot_20210520-180319](https://user-images.githubusercontent.com/64889275/118982677-485b2600-b999-11eb-8bf9-1cbe6c68a1c9.png)
+![Screenshot_20210520-180459](https://user-images.githubusercontent.com/64889275/118986365-eb616f00-b99c-11eb-8c8c-cee15cb613ac.png)
 
 
 Then, I simple change the note title and content as desired by clicking on edit icon-
