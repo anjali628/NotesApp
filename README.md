@@ -33,6 +33,7 @@ When the user click on menu icon which is shown by three dots at the right side 
 
 When you click on delete then the particular note is deleted. Like-
 ![Screenshot_20210520-180406](https://user-images.githubusercontent.com/64889275/118989080-5f047b80-b99f-11eb-86ed-bb0584128035.png)
+![Screenshot_20210520-212158](https://user-images.githubusercontent.com/64889275/119010386-a136b880-b9b1-11eb-8611-ecd2dba3bf05.png)
 
 
 If you click on edit then you will move to other screen for editing of note. Suppose if I want to edit any desired note as follows-
