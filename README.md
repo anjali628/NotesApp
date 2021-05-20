@@ -47,7 +47,7 @@ then-
 
 
 If user wants to log out from the application then click on three dot menu on the right corner of Action Bar of the notes application-
-![Screenshot_20210208-185747](https://user-images.githubusercontent.com/64889275/107229598-09394280-6a44-11eb-90a8-84240d03cf8b.png)
+![Screenshot_20210520-180530](https://user-images.githubusercontent.com/64889275/118980590-3a0c0a80-b997-11eb-878b-139bc7c50e9f.png)
 
 
 After this, you will be logged out and directed to the login screen.
